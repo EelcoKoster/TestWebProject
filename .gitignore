@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/backend/.vs/CM_API
+/src/backend/.vscode
+/src/backend/CM-API/Properties/PublishProfiles
+/src/backend/DataLayer/bin/Debug/net6.0
+/src/backend/DataLayer/obj
+/src/backend/DataLayer.Tests/bin/Debug/net6.0
+/src/backend/DataLayer.Tests/obj/Debug/net6.0
+/src/backend/DataLayer.Tests/obj
+/src/backend/Models/bin/Debug/net6.0
+/src/backend/Models/obj/Debug/net6.0
+/src/backend/Models/obj
