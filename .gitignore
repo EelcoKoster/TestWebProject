@@ -14,3 +14,6 @@
 /src/backend/Models/obj/Debug/net6.0
 /src/backend/Models/obj
 /src/backend/DataLayer.Tests/TestResults/8b9d9a9b-bce7-4426-9636-59a3bcfe187f
+/src/SonarCloudConsole/obj
+/src/SonarCloudConsole/bin
+/src/SonarCloudConsole/.vs
