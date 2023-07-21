@@ -24,6 +24,7 @@ namespace FunctionDI.Functions
         public ClientApi(ILoggerFactory loggerFactory, IConfiguration config, IClientHandler clientHandler)
         {
             _logger = loggerFactory.CreateLogger<ClientApi>();
+            //_logger.LogInformation("ClientApi constructor called.");
             _configuration = config;
             _clientHandler = clientHandler;
         }

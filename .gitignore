@@ -2,7 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/src/backend/.vs/CM_API
+/src/backend/.vs
 /src/backend/.vscode
 /src/backend/CM-API/Properties/PublishProfiles
 /src/backend/DataLayer/bin/Debug/net6.0
